@@ -34,7 +34,7 @@
    - 4-2 DataStore 資料修改
    - 4-3 DataStore 資料刪除
    
- - Chapter 5
+ - Chapter 5 其他功能
    - 5-1 帳號驗證
    - 5-2 定時排程工作Cron
    - 5-3 發送EMAIL
@@ -42,7 +42,7 @@
    - 5-5 綁定自訂網址(網域)
    - 5-6 Jmeter 壓力測試
    
- - Chapter 6
+ - Chapter 6 範例實作
  
    - 6-1 應用範例 (一)
    - 6-2 應用範例 (二)
