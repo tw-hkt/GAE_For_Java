@@ -20,7 +20,7 @@
  * 中斷除錯
  * DataStore資料存取 (JDO)
  * DataStore資料搜尋  (JQL)
- * User 會員
+ * User 會員認證服務
  * 定時排程工作Cron
  * 發送EMAIL
  * Xmpp 即時通訊聊天室
