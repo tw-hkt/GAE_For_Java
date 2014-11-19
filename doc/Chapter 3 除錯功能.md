@@ -121,6 +121,19 @@ public class Log_DemoServlet extends HttpServlet {
 	} // end doGet
 }// end class
 ```
+<br>
+<br>
+<br>
+
+### 3-1-3 下載日誌範例:
+Windows 命令方式，存到mylogs.txt記事本中，
+```java
+./appengine-java-sdk/bin/appcfg.cmd request_logs myapp/war mylogs.txt
+```
+預設log 的等級為INFO，濾掉debug等級(finest、finer、fine、config)的訊息。
+<br>
+<br>
+<br>
 ## 3-2 中斷除錯
 
 * * *
@@ -132,3 +145,6 @@ public class Log_DemoServlet extends HttpServlet {
 3.GAE官方說明文件: [Using Cloud Logging in App Engine Apps](https://cloud.google.com/appengine/articles/logging)
 <br>
 4.GAE官方說明文件: [logs-related quotas](https://cloud.google.com/appengine/docs/quotas#Logs)
+<br>
+5.GAE官方說明文件: [Downloading logs from App Engine](https://cloud.google.com/appengine/docs/java/tools/uploadinganapp#Downloading_Logs)
+6.GAE官方說明文件: [log level](https://cloud.google.com/appengine/docs/java/tools/uploadinganapp#command_line_arguments_appcfg_severity)
