@@ -135,7 +135,13 @@ Windows 命令方式，存到mylogs.txt記事本中，
 <br>
 <br>
 ## 3-2 中斷除錯
+在本地端，可以在程式碼中，設立中斷點，執行逐行除錯模式
 
+![](https://raw.githubusercontent.com/tw-hkt/GAE_For_Java/b194025967374c3ab609e2c879e78a42c93c48ed/img/ch3-02.png)
+
+<br>
+可以加入想要監看的變數來進行邏輯驗證運算判斷
+![](https://raw.githubusercontent.com/tw-hkt/GAE_For_Java/master/img/ch3-03.png)
 * * *
 ### 參考資料
 1.GAE官方說明文件: [Logs Java API Overview](https://cloud.google.com/appengine/docs/java/logs/)
