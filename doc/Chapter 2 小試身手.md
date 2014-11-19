@@ -33,7 +33,7 @@ Eclipse 4.4 (Luna)	Plugin for Eclipse 4.4 (Luna)	https://dl.google.com/eclipse/p
 Eclipse 4.3 (Kepler)	Plugin for Eclipse 4.3 (Kepler)	https://dl.google.com/eclipse/plugin/4.3  <br>
 Eclipse 3.8/4.2 (Juno)	Plugin for Eclipse 3.8/4.2 (Juno)	https://dl.google.com/eclipse/plugin/4.2 <br>
 
-筆者Eclipse為Kepler，所以在輸入套件路徑為:
+筆者Eclipse為Kepler，所以在輸入套件路徑如下:
 
 ![](https://raw.githubusercontent.com/tw-hkt/GAE_For_Java/master/img/ch2-05.jpg)
 然後勾選:<br>
