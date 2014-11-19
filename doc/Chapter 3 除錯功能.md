@@ -1,7 +1,7 @@
 # Chapter 3 除錯功能
 
 ## 3-1 Log 日誌訊息
-#### 3-1-1 打印日誌範例:
+### 3-1-1 打印日誌範例:
 Log_DemoServlet.java
 ```java
 public class Log_DemoServlet extends HttpServlet {
@@ -32,23 +32,25 @@ public class Log_DemoServlet extends HttpServlet {
 
 可以到**雲端專案控制台** -> **監控** -> **紀錄** 看到日誌訊息。
 ![](https://raw.githubusercontent.com/tw-hkt/GAE_For_Java/master/img/ch3-01.png)
-
-#### 3-1-2 回撈日誌範例:
+<br>
+<br>
+<br>
+### 3-1-2 回撈日誌範例:
 日誌分兩種: **請求**(request)和**應用程式**(application)。
 
 獲取日誌的一般過程如下：
 
-1.使用LogQuery指定哪些記錄返回。
+1.使用**LogQuery**指定哪些記錄返回。
 
-2.使用LogServiceFactory.getLogService（）來創建LogService
+2.使用**LogServiceFactory.getLogService()**來創建**LogService**
 
-3.調用LogServiceFactory.getLogService（）。fetch（）方法返回一個迭代器請求日誌。
+3.調用**LogServiceFactory.getLogService()**。fetch()方法返回一個迭代器請求日誌。
 
-4.在每次迭代中，對於每個RequestLogs，根據需要處理該請求的屬性。
+4.在每次迭代中，對於每個**RequestLogs**，根據需要處理該請求的屬性。
 
-5.或者，使用RequestLogs.getAppLogLines（）來獲得應用程序日誌（AppLogLine與此請求相關聯）。
+5.或者，使用**RequestLogs.getAppLogLines()**來獲得應用程序日誌（**AppLogLine**與此請求相關聯）。
 
-6.獲取應用程序日誌，可以根據每個AppLogLine的屬性數據來獲取。
+6.獲取應用程序日誌，可以根據每個**AppLogLine**的屬性數據來獲取。
 
 Log_DemoServlet.java
 ```java
