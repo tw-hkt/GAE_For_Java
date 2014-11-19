@@ -22,8 +22,7 @@ public class Log_DemoServlet extends HttpServlet {
 	} // end doGet
 }// end class
 ```
-WEB-INF/logging.properties
-設定印出Log 的等級，低於此等級則不會被印出來
+在WEB-INF/logging.properties 設定印出Log 的等級，低於此等級則不會被印出來
 ```java
 .level = INFO
 ```
