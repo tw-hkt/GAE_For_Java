@@ -7,6 +7,10 @@
 <br>
 ![](https://raw.githubusercontent.com/tw-hkt/GAE_For_Java/master/img/ch1-04.jpg)
 <br>
+<br>
+<br>
+![](https://raw.githubusercontent.com/tw-hkt/GAE_For_Java/master/img/ch1-05.png)
+<br>
 **Google App Engine 雲端應用平台**
 
 ![](https://raw.githubusercontent.com/tw-hkt/GAE_For_Java/master/img/ch1-02.jpg)
@@ -27,7 +31,7 @@
 
 * * *
 ### 參考資料
-1.神通資訊科技MiCloud: [Google cloud platform](http://micloud.tw/ch/home/google/google-cloud-platform)
+1.MiCloud: [Google cloud platform](http://micloud.tw/ch/home/google/google-cloud-platform)
 <br>
 2.Google Cloud Platform 官方說明文件: [Mobile Solutions on Google Cloud Platform](https://cloud.google.com/developers/articles/mobile-application-solutions/)
 <br>
