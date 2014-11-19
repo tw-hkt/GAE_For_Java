@@ -52,7 +52,7 @@ Eclipse 3.8/4.2 (Juno)	Plugin for Eclipse 3.8/4.2 (Juno)	https://dl.google.com/e
 
 2.**General -> Workspace -> UTF-8**
 
-![](https://raw.githubusercontent.com/tw-hkt/GAE_For_Java/master/img/ch2-07.jpg)
+![](https://raw.githubusercontent.com/tw-hkt/GAE_For_Java/9a17f501ce34854af2afd9a6f3f932adc19b3a64/img/ch2-07.jpg)
 
 
 ## 2-2 第一個 GAE 程式 (Hello, Google App Engin)，本機端
