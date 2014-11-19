@@ -50,7 +50,7 @@ public class Log_DemoServlet extends HttpServlet {
 
 6.獲取應用程序日誌，可以根據每個AppLogLine的屬性數據來獲取。
 
-
+Log_DemoServlet.java
 ```java
 public class Log_DemoServlet extends HttpServlet {
 
