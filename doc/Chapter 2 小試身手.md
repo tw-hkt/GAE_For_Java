@@ -50,7 +50,7 @@ Eclipse 3.8/4.2 (Juno)	Plugin for Eclipse 3.8/4.2 (Juno)	https://dl.google.com/e
 
 ![](https://raw.githubusercontent.com/tw-hkt/GAE_For_Java/master/img/ch2-06.jpg)
 
-2.**General -> Workspace**
+2.**General -> Workspace -> UTF-8**
 
 ![](https://raw.githubusercontent.com/tw-hkt/GAE_For_Java/master/img/ch2-07.jpg)
 
