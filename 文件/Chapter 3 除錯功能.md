@@ -30,6 +30,8 @@ public class Log_DemoServlet extends HttpServlet {
 <br>
 (設定 **INFO**，為 **INFO** 等級的會被印出來。)
 
+可以到**雲端專案控制台** -> **監控** -> **紀錄** 看到日誌訊息。
+
 ## 3-2 中斷除錯
 
 * * *
