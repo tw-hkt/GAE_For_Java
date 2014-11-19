@@ -42,6 +42,17 @@ Eclipse 3.8/4.2 (Juno)	Plugin for Eclipse 3.8/4.2 (Juno)	https://dl.google.com/e
 ● SDKs<br> 
 勾選這三項後，下一步，同意條款，進行套件安裝。
 
+###2-1-4 修改 Eclipse 編碼
+
+筆者建議將Eclipse 編碼改為UTF-8 ，支援轉換其他語系過程中，才不會變成亂碼。
+
+1.**Windows -> Preferences**
+
+![](https://raw.githubusercontent.com/tw-hkt/GAE_For_Java/master/img/ch2-06.jpg)
+
+2.**General -> Workspace**
+
+![](https://raw.githubusercontent.com/tw-hkt/GAE_For_Java/master/img/ch2-07.jpg)
 
 
 ## 2-2 第一個 GAE 程式 (Hello, Google App Engin)，本機端
