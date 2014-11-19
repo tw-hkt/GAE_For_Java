@@ -27,5 +27,7 @@
 
 * * *
 ### 參考資料
-1.micloud: [Google cloud platform](http://micloud.tw/ch/home/google/google-cloud-platform)
+1.神通資訊科技MiCloud: [Google cloud platform](http://micloud.tw/ch/home/google/google-cloud-platform)
+<br>
+2.Google Cloud Platform 官方說明文件: [Mobile Solutions on Google Cloud Platform](https://cloud.google.com/developers/articles/mobile-application-solutions/)
 <br>
