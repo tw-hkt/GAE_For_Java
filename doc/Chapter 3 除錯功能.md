@@ -124,7 +124,7 @@ public class Log_DemoServlet extends HttpServlet {
 ## 3-2 中斷除錯
 
 * * *
-## 參考資料
+### 參考資料
 <br>
 1.GAE官方說明文件: [Logs Java API Overview](https://cloud.google.com/appengine/docs/java/logs/)
 <br>
