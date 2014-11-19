@@ -141,7 +141,26 @@ Windows 命令方式，存到mylogs.txt記事本中，
 
 <br>
 可以加入想要監看的變數來進行邏輯驗證運算判斷
+
 ![](https://raw.githubusercontent.com/tw-hkt/GAE_For_Java/master/img/ch3-03.png)
+
+<br>
+<br>
+<br>
+## 3-3 傻瓜除錯
+
+### 3-3-1 HTML 輔助
+將變數或邏輯結果直接印在前端網頁上
+```java
+<p></p>
+```
+
+### 3-3-2 JavaScript 輔助
+彈出對話視窗
+```java
+alert();
+```
+
 * * *
 ### 參考資料
 1.GAE官方說明文件: [Logs Java API Overview](https://cloud.google.com/appengine/docs/java/logs/)
