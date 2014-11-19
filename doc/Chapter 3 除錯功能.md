@@ -35,7 +35,7 @@ public class Log_DemoServlet extends HttpServlet {
 <br>
 <br>
 <br>
-### 3-1-2 回撈日誌範例:
+### 3-1-2 撈回日誌範例:
 日誌分兩種: **請求**(request)和**應用程式**(application)。
 
 獲取日誌的一般過程如下：
