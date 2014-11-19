@@ -130,7 +130,7 @@ Windows 命令方式，存到mylogs.txt記事本中，
 ```java
 ./appengine-java-sdk/bin/appcfg.cmd request_logs myapp/war mylogs.txt
 ```
-預設log 的等級為INFO，濾掉debug等級(finest、finer、fine、config)的訊息。
+預設下載 log 的等級為INFO，濾掉debug等級(finest、finer、fine、config)的訊息。
 <br>
 <br>
 <br>
