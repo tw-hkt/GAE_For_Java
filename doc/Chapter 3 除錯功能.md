@@ -11,13 +11,13 @@ public class Log_DemoServlet extends HttpServlet {
 
 	public void doGet(HttpServletRequest req, HttpServletResponse resp)
 			throws IOException {
-		log.finest("An finest message.");
-		log.finer("An finer message.");
-		log.fine("An fine message.");
-		log.config("An config message.");
-		log.info("An informational message.");
-		log.warning("A warning message.");
-		log.severe("An error message.");
+		log.finest("finest message.");
+		log.finer("finer message.");
+		log.fine("fine message.");
+		log.config("config message.");
+		log.info("informational message.");
+		log.warning("warning message.");
+		log.severe("error message.");
 
 	} // end doGet
 }// end class
@@ -31,6 +31,7 @@ public class Log_DemoServlet extends HttpServlet {
 (設定 **INFO**，為 **INFO** 等級的會被印出來。)
 
 可以到**雲端專案控制台** -> **監控** -> **紀錄** 看到日誌訊息。
+![](https://raw.githubusercontent.com/tw-hkt/GAE_For_Java/master/img/ch3-01.png)
 
 ## 3-2 中斷除錯
 
