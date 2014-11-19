@@ -41,15 +41,15 @@ public class Log_DemoServlet extends HttpServlet {
 獲取日誌的一般過程如下：
 
 1.使用**LogQuery**指定哪些記錄返回。
-
+<br>
 2.使用**LogServiceFactory.getLogService()**來創建**LogService**
-
+<br>
 3.調用**LogServiceFactory.getLogService()**。fetch()方法返回一個迭代器請求日誌。
-
+<br>
 4.在每次迭代中，對於每個**RequestLogs**，根據需要處理該請求的屬性。
-
+<br>
 5.或者，使用**RequestLogs.getAppLogLines()**來獲得應用程序日誌（**AppLogLine**與此請求相關聯）。
-
+<br>
 6.獲取應用程序日誌，可以根據每個**AppLogLine**的屬性數據來獲取。
 
 Log_DemoServlet.java
@@ -127,9 +127,9 @@ public class Log_DemoServlet extends HttpServlet {
 參考資料:
 <br>
 1.GAE官方說明文件: [Logs Java API Overview](https://cloud.google.com/appengine/docs/java/logs/)
-
+<br>
 2.GAE官方說明文件: [Javadoc Reference](https://cloud.google.com/appengine/docs/java/javadoc/com/google/appengine/api/log/package-summary)
-
+<br>
 3.GAE官方說明文件: [Using Cloud Logging in App Engine Apps](https://cloud.google.com/appengine/articles/logging)
-
+<br>
 4.GAE官方說明文件: [logs-related quotas](https://cloud.google.com/appengine/docs/quotas#Logs)
