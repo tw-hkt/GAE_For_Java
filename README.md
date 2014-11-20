@@ -30,26 +30,28 @@
    - 3-2 中斷除錯
 
  - Chapter 4 資料儲存
-
    - 4-1 DataStore 介紹
    - 4-2 DataStore 資料建立
    - 4-3 DataStore 資料讀取
    - 4-2 DataStore 資料修改
    - 4-3 DataStore 資料刪除
 
- - Chapter 5 其他功能
+ - Chapter 5 服務功能
    - 5-1 帳號驗證
    - 5-2 定時排程工作Cron
    - 5-3 發送EMAIL
    - 5-4 Xmpp 即時通訊聊天室
    - 5-5 綁定自訂網址(網域)
-   - 5-6 Jmeter 壓力測試
 
- - Chapter 6 範例實作
-
-   - 6-1 應用範例 (一)
-   - 6-2 應用範例 (二)
-   - 6-3 應用範例 (三)
+ Chapter X 測試功能
+   - X-1 單元測試
+   - X-2 postman API 測試
+   - X-3 Jmeter 壓力測試
+   - 
+ - Chapter X 範例實作
+   - X-1 應用範例 (一)
+   - X-2 應用範例 (二)
+   - X-3 應用範例 (三)
 
 <br>
 <br>
