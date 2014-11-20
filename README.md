@@ -41,13 +41,17 @@
    - 5-2 FaceBook 帳號驗證
    - 5-3 Google 帳號驗證
    
- - Chapter X 服務功能
-   - X-1 服務介紹
-   - X-2 定時排程工作 Cron
-   - X-3 發送EMAIL
-   - X-4 Xmpp 即時通訊聊天室
-   - X-5 綁定自訂網址(網域)
+ - X-1 服務介紹
+   - X-X Memcache 服務
+   - X-X URL 擷取
+   - X-X 郵件服務
+   - X-X Xmpp 即時通訊聊天室
+   - X-X 綁定自訂網址(網域)
 
+ - Chapter X 任務與排程
+    - 任務佇列
+    - 工作排程
+    
  - Chapter X 測試功能
    - X-1 單元測試
    - X-2 Postman API 測試
