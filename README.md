@@ -63,7 +63,7 @@
 <br>
 ----------
 
-「GAE_For_Java」 repository 中提供所有的圖文與影片教學，以下簡稱「本資料」。
+「GAE_For_Java」 repository 中提供所有的圖文與影片教學，以下簡稱「本資料」:
 
 ### 著作聲明 ###
 
