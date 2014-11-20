@@ -40,7 +40,7 @@
    - 5-1 簡易會員系統
    - 5-2 FaceBook 帳號驗證
    - 5-3 Google 帳號驗證
-   - 
+   
  - Chapter X 服務功能
    - X-1 服務介紹
    - X-2 定時排程工作 Cron
