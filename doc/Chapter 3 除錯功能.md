@@ -152,13 +152,13 @@ Windows 命令方式，存到mylogs.txt記事本中，
 ### 3-3-1 HTML 輔助
 將變數或邏輯結果直接印在前端網頁上
 ```html
-<p> </p>
+out.print("XXXXXX");
 ```
 
 ### 3-3-2 JavaScript 輔助
 彈出對話視窗，其中訊息內容帶變數或邏輯結果
 ```html
-alert();
+alert('XXXXXX');
 ```
 
 * * *
