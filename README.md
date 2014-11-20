@@ -1,5 +1,5 @@
 # Google App Engine For Java 入門實作
-(雲端開發系列課程)
+(中文開源計畫)
 
 
  * 講師: [HKT(Calvin Huo)](https://plus.google.com/106315661421751933087/posts)
@@ -36,12 +36,17 @@
    - 4-2 DataStore 資料修改
    - 4-3 DataStore 資料刪除
 
- - Chapter 5 服務功能
-   - 5-1 Google 帳號驗證
-   - 5-2 定時排程工作 Cron
-   - 5-3 發送EMAIL
-   - 5-4 Xmpp 即時通訊聊天室
-   - 5-5 綁定自訂網址(網域)
+ - Chapter 5 身分驗證
+   - 5-1 簡易會員系統
+   - 5-2 FaceBook 帳號驗證
+   - 5-3 Google 帳號驗證
+   - 
+ - Chapter X 服務功能
+   - X-1 服務介紹
+   - X-2 定時排程工作 Cron
+   - X-3 發送EMAIL
+   - X-4 Xmpp 即時通訊聊天室
+   - X-5 綁定自訂網址(網域)
 
  - Chapter X 測試功能
    - X-1 單元測試
