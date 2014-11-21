@@ -28,6 +28,7 @@
  - Chapter 3 除錯功能
    - 3-1 Log 日誌訊息
    - 3-2 中斷除錯
+   - 3-3 中斷除錯
 
  - Chapter 4 資料儲存
    - 4-1 DataStore 介紹
