@@ -54,9 +54,9 @@
     - 工作排程
     
  - Chapter X 測試功能
-   - X-1 單元測試
-   - X-2 Postman API 測試
-   - X-3 Jmeter 網站壓力測試
+   - X-1 Postman API 測試
+   - X-2 Jmeter 網站壓力測試
+   - X-3 單元測試
    
  - Chapter X 範例實作
    - X-1 應用範例 (一) ...
