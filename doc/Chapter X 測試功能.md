@@ -1,9 +1,7 @@
-# Chapter X 服務介紹
-   - X-X Memcache 服務
-   - X-X URL 擷取
-   - X-X 郵件服務
-   - X-X Xmpp 即時通訊聊天室
-   - X-X 綁定自訂網址(網域)
+# Chapter X 測試功能
+   - X-1 Postman API 測試
+   - X-2 Jmeter 網站壓力測試
+   - X-3 單元測試
 
 
 
