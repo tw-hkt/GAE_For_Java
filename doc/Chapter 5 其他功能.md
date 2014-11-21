@@ -1,10 +1,9 @@
-# Chapter 5 其他功能
-- 5-1 帳號驗證
-- 5-2 定時排程工作Cron
-- 5-3 發送EMAIL
-- 5-4 Xmpp 即時通訊聊天室
-- 5-5 綁定自訂網址(網域)
-- 5-6 Jmeter 壓力測試
+# Chapter X 服務介紹
+   - X-X Memcache 服務
+   - X-X URL 擷取
+   - X-X 郵件服務
+   - X-X Xmpp 即時通訊聊天室
+   - X-X 綁定自訂網址(網域)
 
 
 
